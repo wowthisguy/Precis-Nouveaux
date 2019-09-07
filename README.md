@@ -1,4 +1,6 @@
 # Précis-Nouveaux
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwowthisguy%2FPrecis-Nouveaux.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwowthisguy%2FPrecis-Nouveaux?ref=badge_shield)
+
 
 ## To view...
 Start your Node server and go to: http://localhost:8080/phase3
@@ -94,3 +96,7 @@ We wanted to showcase a source's image, title, and summary. Then next to each im
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwowthisguy%2FPrecis-Nouveaux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwowthisguy%2FPrecis-Nouveaux?ref=badge_large)
